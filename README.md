@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m a technology enthusiast focusing on Digital Transformation, the Internet of Things and the Cloud. <br><br>
 
-🔭 I’m currently working on Cloud Architect<br>👨🏻‍💻 I’m looking to collaborate on Cloud and DevOps-related issues <br>🤝 I’m looking for help with applying tools to existing infrastructure <br>🌱 I’m currently learning Cloud Technologies and new tools coming to market <br>💬 Ask me about anything related to Cloud and DevOps<br>⚡ Fun fact : K8's architecture is completely based on the ship-cargo scenario
+🔭 I’m currently working on DevOps Architect<br>👨🏻‍💻 I’m looking to collaborate on Cloud and DevOps-related issues <br>🤝 I’m looking for help with applying tools to existing infrastructure <br>🌱 I’m currently learning Cloud Technologies and new tools coming to market <br>💬 Ask me about anything related to Cloud and DevOps<br>⚡ Fun fact : K8's architecture is completely based on the ship-cargo scenario
 
 
 ## 🌐 Socials:
